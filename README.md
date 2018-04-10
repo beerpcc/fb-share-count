@@ -1,7 +1,7 @@
 A tiny python script for bulk facebook share url counting via facebook graph API.
 
 # Requirement
-- Python 2
+- Python 2.7
 
 # How to use
 - add url list line by line `urls.txt`
