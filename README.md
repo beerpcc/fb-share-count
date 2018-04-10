@@ -1,4 +1,4 @@
-A tiny python script for bulk facebook share url counting via facebook graph API.
+A tiny python script for bulk facebook url sharing count via facebook graph API.
 
 # Requirement
 - Python 2.7
